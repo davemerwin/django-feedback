@@ -1,4 +1,13 @@
 *.log
 *.pot
+tmp
 *.pyc
-local_settings.py
+*.DS_Store
+*~
+.svn
+.sass-cache
+build
+database/*.sql
+*.geany
+secret_keys.py
+admin
